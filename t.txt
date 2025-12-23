@@ -2,6 +2,9 @@ new name: metaFurex.com
 
 
 token 1: 0x67Dc153Dd076cAe5d1ccB9A893fE1808af07bFFc
+token 2: 0xB121ba435B17bBd674C160051588fe2f696Bf1E7
+
+
 
 https://github.com/alitcsh214/metaFlux/blob/main/mfx_32x32.svg
 
@@ -34,5 +37,6 @@ The MetaFurex (mfx) cryptocurrency is used for in-game payments and earning poin
 
 
 /* https://github.com/metaflux-mfx/  */            https://t.me/metafurex       https://x.com/metafurex
+
 
 linkdin
